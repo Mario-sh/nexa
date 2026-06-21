@@ -1,0 +1,6 @@
+{
+  "name": "Nexa Studio",
+  "description": "High-Conversion Digital Agency specializing in bespoke web architecture and custom AI automated chatbots for SaaS startups, online coaches, and European SMEs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
